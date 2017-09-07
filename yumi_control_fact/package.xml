@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <name>yumi_control_fact</name>
+  <version>0.1.0</version>
+  <description>YuMi control for fact experiment</description>
+
+
+  <maintainer email="onykvist@kth.se">Olov Nykvist</maintainer>
+
+  <license>BSD</license>
+
+  <author>Olov Nykvist</author>
+  <credits>Yoshua Nava</credits>
+  <credits>Guðmundur F. Hallgrímsson</credits>
+  <credits>Junxun Luo</credits>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>

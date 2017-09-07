@@ -1,0 +1,8 @@
+*.pyc
+yumi_control_fact/catkin/
+yumi_control_fact/catkin_generated/
+yumi_control_fact/CMakeFiles/
+yumi_control_fact/devel/
+yumi_control_fact/gtest/
+yumi_control_fact/test_results/
+yumi_control_fact/CMakeCache.txt
